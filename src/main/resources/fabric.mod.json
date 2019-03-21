@@ -1,7 +1,7 @@
 {
   "id": "multiblockapi",
   "name": "MultiBlock API",
-  "description": "A simple API for compatability with MultiBlocks similar to Doors and Beds",
+  "description": "A simple API for compatibility with MultiBlocks similar to Doors and Beds",
   "version": "${version}",
   "side": "universal",
   "mixins": {
