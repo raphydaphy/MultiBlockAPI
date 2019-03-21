@@ -1,0 +1,10 @@
+{
+  "id": "multiblockapi",
+  "name": "MultiBlock API",
+  "description": "A simple API for compatability with MultiBlocks similar to Doors and Beds",
+  "version": "${version}",
+  "side": "universal",
+  "mixins": {
+    "common": "multiblockapi.common.json"
+  }
+}
